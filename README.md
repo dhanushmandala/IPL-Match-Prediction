@@ -178,7 +178,3 @@ The app can only encode categories known to the saved encoders. Retrain the mode
 - Display prediction probabilities and model evaluation metrics.
 - Improve the model evaluation with additional baselines and time-aware validation.
 - Add more informative match features, while avoiding data leakage.
-
-## Disclaimer
-
-This project is intended for educational and demonstration purposes. Predictions should not be treated as certain outcomes or used as the sole basis for betting or financial decisions.
